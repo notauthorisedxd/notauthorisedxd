@@ -1,6 +1,3 @@
-## Hi there 👋
-
-- 🌱 I’m currently learning Rust
-- 👯 I’m looking for frontend work
-- 💬 Ask me about CSS
-- 📫 How to reach me: notnotnotauthorised (discord)
+## I make malware fuckers. You can get t0kens, webhooks or ips from Pysilon and other malware.
+- 💬 Ask me about reverse engineering
+- 📫 How to reach me: notauthorisedxdxd (discord) for malware submission or questions.
